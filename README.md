@@ -33,7 +33,7 @@ Modern file and folder encryption powered by the TitanCrypt Engine
 | <img width="1280" height="640" alt="1" src="https://github.com/user-attachments/assets/92ced5cf-dc27-41ec-bb64-a5f524fd9f6f" /> | <img width="1280" height="640" alt="4" src="https://github.com/user-attachments/assets/ee4b80c8-e89f-410d-b639-1482b25967c3" /> |
 |---|---|
 
-| <img width="899" height="632" alt="image" src="https://github.com/user-attachments/assets/0d214464-654b-42dc-8c97-3ec91d93e524" /> |
+| <img width="1280" height="640" alt="514142180-0d214464-654b-42dc-8c97-3ec91d93e524" src="https://github.com/user-attachments/assets/de4d3dce-d53d-43e0-bfb7-cf9c1e396d1c" /> |
 |---|
 
 SecureArchive is a standalone, fully offline application for securely encrypting files and directory structures. It uses a proprietary container format (.secarc) and the custom-built TitanCrypt Engine.
