@@ -162,4 +162,6 @@ Your report will be handled discreetly under the project’s coordinated disclos
 # 9. Licensing
 
 By contributing, you agree that your contributions will be licensed under the project’s **MIT License**.
-[LICENSE](LICENSE)
+
+| [LICENSE](LICENSE) |
+|---|
