@@ -1,11 +1,11 @@
-<p align="center">
+
+<!-- <p align="center">
   <img src="docs/assets/securearchive_logo.svg" width="260" />
 </p>
 <p align="center">
   Powered by the TitanCrypt Engine · Developed by BYLICKILABS
 </p>
-
-
+-->
 
 <p align="center">
 
