@@ -1,4 +1,4 @@
-## ARCHITECTURE.md — SecureArchive / TitanCrypt Engine
+### ARCHITECTURE.md — SecureArchive / TitanCrypt Engine
 
 ## 1. Overview
 
