@@ -1,4 +1,4 @@
-# SECURITY Policy — SecureArchive / TitanCrypt Engine
+### SECURITY Policy — SecureArchive / TitanCrypt Engine
 
 ## 1. Threat Model
 
