@@ -57,15 +57,15 @@ python securearchive_gui.py
 SecureArchive/
 │
 ├── securearchive/
-│   ├── engine.py           # TitanCrypt Engine
-│   ├── crypto.py           # AES-GCM, PBKDF2
-│   ├── fsutil.py           # Datei- und Ordnerverarbeitung
-│   ├── i18n.py             # Sprachsystem
-│   ├── errors.py           # Fehlerklassen
+│   ├── engine.py
+│   ├── crypto.py
+│   ├── fsutil.py
+│   ├── i18n.py
+│   ├── errors.py
 │   └── __init__.py
 │
-├── securearchive_gui.py    # PySide6 GUI
-├── securearchive_main.py   # CLI
+├── securearchive_gui.py
+├── securearchive_main.py
 ├── requirements.txt
 ├── README.md
 └── LICENSE.md
