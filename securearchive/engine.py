@@ -21,10 +21,19 @@ PAYLOAD_SEPARATOR = b"\n---PAYLOAD---\n"
 
 
 class SecureArchiveError(Exception):
+    """Base exception for all SecureArchive-related errors."""
+    pass
+
 
 class InvalidContainerError(SecureArchiveError):
+    """Raised when the container is corrupted, invalid or unreadable."""
+    pass
+
 
 class WrongPasswordError(SecureArchiveError):
+    """Raised when AES-GCM decryption fails due to an incorrect password."""
+    pass
+
 
 @dataclass
 class ContainerHeader:
