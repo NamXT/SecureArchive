@@ -28,7 +28,18 @@
 |SecureArchive | [![SecureArchive CI](https://github.com/bylickilabs/SecureArchive/actions/workflows/securearchive-ci.yml/badge.svg)](https://github.com/bylickilabs/SecureArchive/actions/workflows/securearchive-ci.yml) |
 |---|---|
 
-Modern file and folder encryption powered by the TitanCrypt Engine
+<br>
+
+> Modern file and folder encryption powered by the TitanCrypt Engine
+
+| <img width="1274" height="354" alt="image" src="https://github.com/user-attachments/assets/3eb23ef0-105f-4cf1-bce7-14a5caade6ac" /> |
+|---|
+
+<br>
+
+---
+
+<br>
 
 | <img width="1280" height="640" alt="1" src="https://github.com/user-attachments/assets/92ced5cf-dc27-41ec-bb64-a5f524fd9f6f" /> | <img width="1280" height="640" alt="4" src="https://github.com/user-attachments/assets/ee4b80c8-e89f-410d-b639-1482b25967c3" /> |
 |---|---|
