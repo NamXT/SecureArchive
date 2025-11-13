@@ -24,6 +24,7 @@ pip install -r requirements.txt
 ## Start GUI
 python securearchive_gui.py
 
+```yarn
 SecureArchive/
 │
 ├── securearchive/
@@ -39,4 +40,4 @@ SecureArchive/
 ├── requirements.txt
 ├── README.md
 └── LICENSE.md
-
+```
