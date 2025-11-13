@@ -24,9 +24,19 @@ pip install -r requirements.txt
 ## Start GUI
 python securearchive_gui.py
 
-## CLI usage
-python securearchive_main.py encrypt <input> <output>  
-python securearchive_main.py decrypt <container> <dir>  
-python securearchive_main.py list <container>  
-python securearchive_main.py verify <container>  
-python securearchive_main.py passwd <container>
+SecureArchive/
+│
+├── securearchive/
+│   ├── engine.py           # TitanCrypt Engine
+│   ├── crypto.py           # AES-GCM, PBKDF2
+│   ├── fsutil.py           # Datei- und Ordnerverarbeitung
+│   ├── i18n.py             # Sprachsystem
+│   ├── errors.py           # Fehlerklassen
+│   └── __init__.py
+│
+├── securearchive_gui.py    # PySide6 eGUI
+├── securearchive_main.py   # CLI
+├── requirements.txt
+├── README.md
+└── LICENSE.md
+
