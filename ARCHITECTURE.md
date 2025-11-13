@@ -24,34 +24,34 @@ This ensures:
                ▲
                │
 ┌──────────────────────────────────────────────────────┐
-│                      CLI Layer                        │
-│  - Command-line interface                             │
-│  - Scriptable automation                              │
+│                      CLI Layer                       │
+│  - Command-line interface                            │
+│  - Scriptable automation                             │
 └──────────────────────────────────────────────────────┘
                ▲
                │
 ┌──────────────────────────────────────────────────────┐
-│                SecureArchive Engine (Core)            │
-│  - Container creation                                 │
-│  - Encryption & decryption pipeline                   │
-│  - Manifest handling                                  │
-│  - Offset/length mapping                              │
+│                SecureArchive Engine (Core)           │
+│  - Container creation                                │
+│  - Encryption & decryption pipeline                  │
+│  - Manifest handling                                 │
+│  - Offset/length mapping                             │
 └──────────────────────────────────────────────────────┘
                ▲
                │
 ┌──────────────────────────────────────────────────────┐
-│                 Crypto Primitive Layer                │
-│  - AES-256-GCM                                        │
-│  - PBKDF2-SHA512                                      │
-│  - Salt/nonce generation                              │
+│                 Crypto Primitive Layer               │
+│  - AES-256-GCM                                       │
+│  - PBKDF2-SHA512                                     │
+│  - Salt/nonce generation                             │
 └──────────────────────────────────────────────────────┘
                ▲
                │
 ┌──────────────────────────────────────────────────────┐
-│                 Filesystem Utility Layer              │
-│  - Recursive folder scanning                          │
-│  - Metadata extraction                                │
-│  - File entry modeling                                │
+│                 Filesystem Utility Layer             │
+│  - Recursive folder scanning                         │
+│  - Metadata extraction                               │
+│  - File entry modeling                               │
 └──────────────────────────────────────────────────────┘
 ```
 
